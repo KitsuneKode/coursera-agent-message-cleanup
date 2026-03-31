@@ -1,0 +1,8 @@
+[project]
+name = "coursera-agent-message-cleanup"
+version = "1.0.0"
+description = "Removes Coursera AI agent compliance boilerplate from copied quiz text"
+requires-python = ">=3.10"
+dependencies = [
+    "pyperclip>=1.9.0",
+]
