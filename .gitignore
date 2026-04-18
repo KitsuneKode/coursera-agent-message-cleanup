@@ -1,3 +1,18 @@
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test output
+.test_output.txt
