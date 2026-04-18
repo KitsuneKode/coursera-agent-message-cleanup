@@ -13,6 +13,13 @@ keywords = [
     "academic-integrity",
     "quiz",
     "boilerplate-removal",
+    "ai-agent",
+    "compliance",
+    "education",
+    "productivity",
+    "pyperclip",
+    "assessment",
+    "e-learning",
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
